@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0076&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0076&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0076&layout=compact&exclude_repo=codingStudyForCSharp,codingTestByCpp,GSG_Anniversary_gomi,GameServerStudy,codingTestByPython,PaperBird,practice-githubAction-deploy,practice-spring-security-JWT,BreedSegu)](https://github.com/anuraghazra/github-readme-stats)
